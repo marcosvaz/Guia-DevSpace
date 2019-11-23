@@ -42,7 +42,7 @@ Aqui estão alguns editores de texto recomendados para o desenvolvimento web:
 > [WebStorm](https://www.jetbrains.com/webstorm/) - JetBrains (**Pago**)
 
 ### Índice
-+ [**Aprofundando conceitos básicos**](./teste.md)
++ [**Aprofundando conceitos básicos**]()
     + [Aprofundando no HTML]()
     + [Aprofundando no CSS]()
     + [Aprofundando no JavaScript]()
