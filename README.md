@@ -17,7 +17,6 @@
 
 # Guia DevSpace
 
-
 ### Para quem é esse guia?
 Esse guia é voltado à iniciantes, que provavelmente já conhecem um pouco de desenvolvimento mas que querem aprofundar seus conhecimentos.
 
@@ -42,8 +41,8 @@ Aqui estão alguns editores de texto recomendados para o desenvolvimento web:
 > [WebStorm](https://www.jetbrains.com/webstorm/) - JetBrains (**Pago**)
 
 ### Índice
-+ [**Aprofundando conceitos básicos**]()
-    + [Aprofundando no HTML]()
++ [**Aprofundando conceitos básicos**](./docs/Aprofundando/Aprofundando.md)
+    + [Aprofundando no HTML](./docs/Aprofundando/Aprofundando_no_html.md)
     + [Aprofundando no CSS]()
     + [Aprofundando no JavaScript]()
     + [*Criando uma página web*]()
