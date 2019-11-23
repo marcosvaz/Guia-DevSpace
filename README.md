@@ -22,10 +22,10 @@
 Esse guia é voltado à iniciantes, que provavelmente já conhecem um pouco de desenvolvimento mas que querem aprofundar seus conhecimentos.
 
 ### Como funciona?
-Neste guia, eu iremos ver alguns conceitos básicos, após cada conceito, iremos fazer um exercício, depois iremos ver um pouco mais a fundo sobre cada conceito, e faremos outro exercício. Focaremos mais em prática do que teoria e ao fim de cada seção, faremos um projeto com os conceitos aprendidos, e não importa como sua lógica será feita, só depende que os conceitos sejam usados e que você consiga ter uma visão de tudo o que pode ser feito com esses conceitos. 
+Neste guia, iremos ver alguns conceitos básicos, após cada conceito iremos fazer um exercício, depois iremos ver um pouco mais a fundo sobre cada conceito, e faremos outro exercício. Focaremos mais em prática do que teoria, e ao fim de cada seção faremos um projeto com os conceitos aprendidos, e não importa como sua lógica será feita, só depende que os conceitos sejam usados e que você consiga ter uma visão de tudo o que pode ser feito com esses conceitos.
 
 ### Quais são os requisitos para começar?
-Para cada seção, terão requisitos diferentes, mas para começar neste guia, você deve conhecer pelo ao menos o básico de HTML, CSS e JavaScript, ou no mínimo, ter muita vontade e disposição para aprender.
+Para cada seção, terão requisitos diferentes, mas para começar neste guia, você deve conhecer pelo ao menos o básico de HTML, CSS e JavaScript, ou no mínimo, ter vontade e disposição para aprender.
 
 ### Começando
 O básico que você deve ter em sua máquina, é um navegador e algum editor de texto com que você se sinta confortável.
