@@ -43,7 +43,7 @@ Aqui estão alguns editores de texto recomendados para o desenvolvimento web:
 ### Índice
 + [**Aprofundando conceitos básicos**](./docs/Aprofundando/Aprofundando.md)
     + [Aprofundando no HTML](./docs/Aprofundando/Aprofundando_no_html.md)
-    + [Aprofundando no CSS]()
+    + [Aprofundando no CSS](./docs/Aprofundando/Aprofundando_no_css.md)
     + [Aprofundando no JavaScript]()
     + [*Criando uma página web*]()
 + [**Bibliotecas**]()
