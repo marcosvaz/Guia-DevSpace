@@ -5,7 +5,7 @@ Nesta seção iremos ver conteúdos aprofundados sobre os conceitos básicos par
 
 ### Índice dessa seção:
 + [Aprofundando no HTML](./Aprofundando_no_html.md)
-+ [Aprofundando no CSS]()
++ [Aprofundando no CSS](./Aprofundando_no_css.md)
 + [Aprofundando no JavaScript]()
 + [*Criando uma página web*]()
 

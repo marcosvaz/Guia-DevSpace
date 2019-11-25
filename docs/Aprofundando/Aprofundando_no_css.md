@@ -156,6 +156,9 @@ h2 ~ a {
 ```
 > Neste exemplo, todos os <code>a</code>'s, que vierem depois, e na mesma camada que os <code>h2</code>'s, são selecionados.
 
+#### Seletores de tipo
+> Em breve
+
 ---
 
 ### Entendendo Flexbox
@@ -211,7 +214,7 @@ Eu sei que uma hora você vai precisar disso, e é um conceito simples. Eu lhe d
 ---
 
 ### Entendendo Grid
-O Grid nos ajuda a criar layouts mas de uma forma diferente do Flexbox, pode-se dizer que os dois se complementam.
+> Em breve
 
 ---
 
@@ -226,6 +229,6 @@ O Grid nos ajuda a criar layouts mas de uma forma diferente do Flexbox, pode-se 
 > [Guia Flexbox - Origamid](https://origamid.com/projetos/flexbox-guia-completo/)
 >
 > Entendendo Grid <br />
-> []()
+> **Em breve**
 
 **Próximo conteúdo**: [Aprofundando no JavaScript]()
