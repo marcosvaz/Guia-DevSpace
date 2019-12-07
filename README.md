@@ -84,29 +84,29 @@ Aqui estão alguns editores de texto recomendados para o desenvolvimento web:
 
 ### Referências para desenvolvimento
 + **Ícones**
-    + <a href="https://www.flaticon.com/" target="_blank">FlatIcon</a>
-    + <a href="https://thenounproject.com/" target="_blank">Noun Project</a>
-    + <a href="https://icomoon.io/app/" target="_blank">Icomoon App</a>
-    + <a href="https://material.io/resources/icons/" target="_blank">Material Design</a>
-    + <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>
+    + [FlatIcon](https://www.flaticon.com/)
+    + [Noun Project](https://thenounproject.com/)
+    + [Icomoon App](https://icomoon.io/app/)
+    + [Material Design](https://material.io/resources/icons/)
+    + [Font Awesome](https://fontawesome.com/)
 + **Cores e Gradientes**
-    + <a href="https://coolors.co/browser/latest" target="_blank">Coolors</a>
-    + <a href="https://colorhunt.co/" target="_blank">Color Hunt</a>
-    + <a href="https://uigradients.com/" target="_blank">uiGradients</a>
-    + <a href="http://colinkeany.com/blend/" target="_blank">Blend</a>
-    + <a href="https://webgradients.com/" target="_blank">WebGradients</a>
+    + [Coolors](https://coolors.co/browser/latest)
+    + [Color Hunt](https://colorhunt.co/)
+    + [uiGradients](https://uigradients.com/)
+    + [Blend](http://colinkeany.com/blend/)
+    + [WebGradients](https://webgradients.com/)
 + **Imagens**
-    + <a href="https://pixabay.com/" target="_blank">Pixabay</a>
-    + <a href="https://www.pexels.com/" target="_blank">Pexels</a>
+    + [Pixabay](https://pixabay.com/)
+    + [Pexels](https://www.pexels.com/)
 + **Fontes**
-    + <a href="https://fonts.google.com/" target="_blank">Google Fonts</a>
-    + <a href="https://www.awwwards.com/awwwards/collections/free-fonts/" target="_blank">Awwwards</a>
-    + <a href="https://www.fontfabric.com/free-fonts/" target="_blank">Fontfabric</a>
-    + <a href="https://fontpair.co/" target="_blank">FontPair</a>
+    + [Google Fonts](https://fonts.google.com/)
+    + [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/)
+    + [Fontfabric](https://www.fontfabric.com/free-fonts/)
+    + [FontPair](https://fontpair.co/)
 + **Carrosel**
-    + <a href="https://kenwheeler.github.io/slick/" target="_blank">Slick</a>
+    + [Slick](https://kenwheeler.github.io/slick/)
 + **Mapas**
-    + <a href="https://mapbox.com" target="_blank">Mapbox</a>
+    + [Mapbox](https://mapbox.com)
 
 ### Licença
 [GNU GENERAL PUBLIC LICENSE v3](./LICENSE.md)
