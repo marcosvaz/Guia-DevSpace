@@ -82,5 +82,31 @@ Aqui estão alguns editores de texto recomendados para o desenvolvimento web:
     + [*Criando um portal*]()
 + **Firebase** - Em breve
 
+### Referências para desenvolvimento
++ **Ícones**
+    + <a href="https://www.flaticon.com/" target="_blank">FlatIcon</a>
+    + <a href="https://thenounproject.com/" target="_blank">Noun Project</a>
+    + <a href="https://icomoon.io/app/" target="_blank">Icomoon App</a>
+    + <a href="https://material.io/resources/icons/" target="_blank">Material Design</a>
+    + <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>
++ **Cores e Gradientes**
+    + <a href="https://coolors.co/browser/latest" target="_blank">Coolors</a>
+    + <a href="https://colorhunt.co/" target="_blank">Color Hunt</a>
+    + <a href="https://uigradients.com/" target="_blank">uiGradients</a>
+    + <a href="http://colinkeany.com/blend/" target="_blank">Blend</a>
+    + <a href="https://webgradients.com/" target="_blank">WebGradients</a>
++ **Imagens**
+    + <a href="https://pixabay.com/" target="_blank">Pixabay</a>
+    + <a href="https://www.pexels.com/" target="_blank">Pexels</a>
++ **Fontes**
+    + <a href="https://fonts.google.com/" target="_blank">Google Fonts</a>
+    + <a href="https://www.awwwards.com/awwwards/collections/free-fonts/" target="_blank">Awwwards</a>
+    + <a href="https://www.fontfabric.com/free-fonts/" target="_blank">Fontfabric</a>
+    + <a href="https://fontpair.co/" target="_blank">FontPair</a>
++ **Carrosel**
+    + <a href="https://kenwheeler.github.io/slick/" target="_blank">Slick</a>
++ **Mapas**
+    + <a href="https://mapbox.com" target="_blank">Mapbox</a>
+
 ### Licença
 [GNU GENERAL PUBLIC LICENSE v3](./LICENSE.md)
