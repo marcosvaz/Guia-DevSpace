@@ -82,5 +82,31 @@ Aqui estão alguns editores de texto recomendados para o desenvolvimento web:
     + [*Criando um portal*]()
 + **Firebase** - Em breve
 
+### Referências para desenvolvimento
++ **Ícones**
+    + [FlatIcon](https://www.flaticon.com/)
+    + [Noun Project](https://thenounproject.com/)
+    + [Icomoon App](https://icomoon.io/app/)
+    + [Material Design](https://material.io/resources/icons/)
+    + [Font Awesome](https://fontawesome.com/)
++ **Cores e Gradientes**
+    + [Coolors](https://coolors.co/browser/latest)
+    + [Color Hunt](https://colorhunt.co/)
+    + [uiGradients](https://uigradients.com/)
+    + [Blend](http://colinkeany.com/blend/)
+    + [WebGradients](https://webgradients.com/)
++ **Imagens**
+    + [Pixabay](https://pixabay.com/)
+    + [Pexels](https://www.pexels.com/)
++ **Fontes**
+    + [Google Fonts](https://fonts.google.com/)
+    + [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/)
+    + [Fontfabric](https://www.fontfabric.com/free-fonts/)
+    + [FontPair](https://fontpair.co/)
++ **Carrosel**
+    + [Slick](https://kenwheeler.github.io/slick/)
++ **Mapas**
+    + [Mapbox](https://mapbox.com)
+
 ### Licença
 [GNU GENERAL PUBLIC LICENSE v3](./LICENSE.md)
