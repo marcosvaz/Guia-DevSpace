@@ -169,7 +169,7 @@ Você geralmente vai usar 4 propriedades para manipular seus layouts, que serão
 #### Mas como funciona?
 Devemos passar a ver o layout de uma forma diferente, iremos "componentizar" cada parte dele. Veja a imagem a seguir, e em seguida, irei lhe mostrar como fazer o cabeçalho, seguindo o Flexbox.
 
-![Layout - Dribble](https://cdn.dribbble.com/users/594915/screenshots/4503860/dashboard_2.jpg "Profile UI | Concept - Ali Sayed")
+![Layout - Dribble](../images/dashboard.jpg "Profile UI | Concept - Ali Sayed")
 
 Bom, poderiamos fazê-lo com <code>float</code>, ou com <code>text-align</code>, existem diversas formas de se fazer esse cabeçalho, mas como estou mostrando sobre flexbox, vamos entender esse conceito.
 
