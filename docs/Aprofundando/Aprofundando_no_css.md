@@ -169,7 +169,7 @@ Você geralmente vai usar 4 propriedades para manipular seus layouts, que serão
 #### Mas como funciona?
 Devemos passar a ver o layout de uma forma diferente, iremos "componentizar" cada parte dele. Veja a imagem a seguir, e em seguida, irei lhe mostrar como fazer o cabeçalho, seguindo o Flexbox.
 
-![Layout - Dribble](../images/dashboard.jpg)
+![Layout - Dribble](../images/flexbox.jpg)
 
 Bom, poderiamos fazê-lo com <code>float</code>, ou com <code>text-align</code>, existem diversas formas de se fazer esse cabeçalho, mas como estou mostrando sobre flexbox, vamos entender esse conceito.
 
@@ -214,8 +214,162 @@ Eu sei que uma hora você vai precisar disso, e é um conceito simples. Eu lhe d
 ---
 
 ### Entendendo Grid
-> Em breve
+O grid nos permite disponibilizar elementos de uma forma mais adequada, como se estivéssemos literalmente desenhando o layout no código. Vamos entender melhor.
 
+#### Vamos começar desenhando um layout em grid
+![SmartRetail by Anna Kirkizh](../images/grid.png)
+Esse layout pode ser separado da seguinte maneira:
+```text
+container
+    topo
+        logo
+        info
+        cta
+    corpo
+        StoreEngine
+        ReTrack
+        SmartPick
+```
+Mas e no código?
+\- **HTML**:
+```html
+<div class="container">
+    <div class="topo">
+        <div class="logo">
+            <img src="logo.jpg" />
+        </div>
+        <div class="info">
+            <span>8 800 350 66 15</span>
+            <span>info@smartretail.pro</span>
+        </div>
+        <div class="cta">
+            <button>Call-to-Action</button>
+        </div>
+    </div>
+    <div class="corpo">
+        <div class="storeengine">
+            <div>
+                <img src="imagem.jpg" />
+            </div>
+            <div>
+                <h1><span>Store</span><span>Engine</span></h1>
+                <h3>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga ipsam iusto possimus cupiditate obcaecati.</h3>
+            </div>
+            <div>
+                <a href=""><img src="button.jpg"> Action</a>
+            </div>
+        </div>
+        <div class="retrack">
+            <div>
+                <img src="imagem.jpg" />
+            </div>
+            <div>
+                <h1><span>Re</span><span>Track</span></h1>
+                <h3>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga ipsam iusto possimus cupiditate obcaecati.</h3>
+            </div>
+            <div>
+                <a href=""><img src="button.jpg"> Action</a>
+            </div>
+        </div>
+        <div class="smartpick">
+            <div>
+                <img src="imagem.jpg" />
+            </div>
+            <div>
+                <h1><span>Smart</span><span>Pick</span></h1>
+                <h3>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga ipsam iusto possimus cupiditate obcaecati.</h3>
+            </div>
+            <div>
+                <a href=""><img src="button.jpg"> Action</a>
+            </div>
+        </div>
+    <div>
+</div>
+```
+\- **CSS**:
+```css
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    outline: none;
+    padding: 0;
+}
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+body {
+    background: #433e8d;
+    height: 100vh;
+    color: white;
+}
+.topo {
+    align-items: center;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    max-height: 80px;
+    padding: 20px 60px;
+}
+.info {
+    display: flex;
+    font-weight: bold;
+    justify-content: space-evenly;
+}
+.cta {
+    text-align: right;
+}
+.cta button {
+    background: white;
+    border: 2px solid white;
+    border-radius: 40px;
+    box-sizing: border-box;
+    color: #433e8d;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 8px 30px;
+}
+.corpo {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 0 60px;
+}
+.corpo a img {
+    margin-right: 10px;
+}
+.corpo div:hover {
+    background: white;
+}
+.corpo div:hover h1 span:first-child {
+    color: #0086fb;
+}
+.corpo div:hover h1 span:last-child {
+    color: #433e8d;
+}
+.corpo div:hover h3 {
+    color: #0e1921;
+}
+.corpo div:hover a {
+    color: #433e8d;
+}
+.storeengine, .retrack, .smartpick {
+    display: grid;
+    grid-template-rows: 1.3fr 0.5fr 1.3fr;
+    height: 100%;
+    align-items: center;
+    padding: 0 60px;
+}
+.corpo div div h3 {
+    margin-top: 30px;
+}
+.corpo div div:last-child {
+    align-items: center;
+    display: flex;
+    height: 100%;
+}
+```
 ---
 
 
@@ -229,6 +383,6 @@ Eu sei que uma hora você vai precisar disso, e é um conceito simples. Eu lhe d
 > [Guia Flexbox - Origamid](https://origamid.com/projetos/flexbox-guia-completo/)
 >
 > Entendendo Grid <br />
-> **Em breve**
+> [Guia CSS Grid Layout - Origamid](https://www.origamid.com/projetos/css-grid-layout-guia-completo/)
 
 **Próximo conteúdo**: [Aprofundando no JavaScript]()
